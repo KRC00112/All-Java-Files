@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="Action"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="action"/>
+			<item value="adder"/>
+			<item value="button1"/>
+			<item value="Enter [ANY BUTTON] to go back."/>
+			<item value="press [enter] to go back"/>
+			<item value="viewed"/>
+			<item value="continue"/>
+			<item value="b"/>
+			<item value="main2"/>
+			<item value="10"/>
+			<item value="press"/>
+			<item value="promptToOpen"/>
+			<item value="press "/>
+			<item value="Loading Bar"/>
+			<item value="desc"/>
+		</list>
+		<list key="replacehistory">
+			<item value="addPanel"/>
+			<item value="addButton"/>
+			<item value="Enter [ANY BUTTON] to go back to main console."/>
+			<item value="Enter [ANY BUTTON] to go back."/>
+			<item value="go back"/>
+			<item value="mainGame"/>
+			<item value="speed"/>
+			<item value="PLAYER_POWER"/>
+			<item value="ENEMY_POWER"/>
+			<item value="2"/>
+			<item value="1"/>
+			<item value="paintCloseDoor"/>
+			<item value="paintOpenDoor"/>
+			<item value="diameter"/>
+			<item value="Y"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="111"/>
+		<item key="DIALOG_Y_ORIGIN" value="185"/>
+		<item key="DIALOG_WIDTH" value="414"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

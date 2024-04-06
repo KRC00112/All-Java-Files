@@ -1,0 +1,51 @@
+package ii_basic_concepts;
+
+import java.util.Scanner;
+
+public class Arrays {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+//		int[] b= {2,4,6,8,10};
+		
+		
+//		System.out.println(4*b.length+"\n"); //because of size of int is 4 bytes
+//		
+//		
+//		
+//		for(int i=0;i<b.length;i++) {
+//			
+//			System.out.println(b[i]);
+//			
+//			
+//		}
+		
+
+//		for (int  j:b) {
+//			System.out.println(j);
+//		}
+//		
+		Scanner scanner=new Scanner(System.in);
+		
+		
+		System.out.print("Enter the size of the array: ");
+		int size=scanner.nextInt();
+		
+		int a[size];
+		
+		a[0]=1;
+	
+		for (int  j:a) {
+			System.out.println(j);
+		}
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

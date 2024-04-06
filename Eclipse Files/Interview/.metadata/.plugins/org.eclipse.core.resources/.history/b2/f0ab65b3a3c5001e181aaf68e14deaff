@@ -1,0 +1,39 @@
+package reverseANumber;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		int x=7653;
+		
+		String xString=String.valueOf(x);
+		
+		int reversedNumber;
+		
+		String[] numbers=xString.split("");
+		
+		
+		for(int i=numbers.length-1;i>=0;i--) {
+			
+			
+			reversedNumber=Integer.parseInt(numbers[i]);
+			
+			System.out.print(reversedNumber);
+			
+			
+		}
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,30 @@
+package reverseANumber;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+        // Scanner class declaration
+        Scanner sc = new Scanner(System.in);
+
+        // Input from user
+        System.out.print("Enter a number: ");
+        int number = sc.nextInt();
+        System.out.print("Reverse of " + number + " is ");
+
+        int reverse = 0;
+        while (number != 0) {
+            int lastDigit = number % 10;
+            reverse = reverse * 10 + lastDigit;
+            number = number / 10;
+        }
+
+        // Display the reversed number
+        System.out.print(reverse);
+
+        // Closing scanner class (not compulsory, but good practice)
+        sc.close();
+    }
+
+}

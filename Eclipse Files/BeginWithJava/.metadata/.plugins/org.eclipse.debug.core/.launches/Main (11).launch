@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/valid_triangle/src/valid_triangle/Main.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="valid_triangle.Main"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="valid_triangle"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="valid_triangle"/>
+</launchConfiguration>

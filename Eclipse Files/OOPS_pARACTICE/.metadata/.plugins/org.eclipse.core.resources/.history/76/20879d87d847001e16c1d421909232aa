@@ -1,0 +1,25 @@
+package classes;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Person person=new Person();
+		
+		String name="John";
+		person.get(name,23,172.2,62.6);
+		person.runs(name);
+		
+		System.out.println();
+		name="jason";
+		person.get(name, 17, 180, 78);
+		person.swims(name);
+		
+		
+		
+		
+	
+	}
+
+}

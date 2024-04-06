@@ -1,0 +1,25 @@
+package num3_sumOfTtwoNumbers;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		SumOfTwoNumbers(3,2);
+		
+		
+
+	}
+	
+	
+	static int SumOfTwoNumbers(int num1,int num2) {
+		
+		int result=num1+num2;
+		
+		
+		return result;
+		
+	}
+	
+
+}

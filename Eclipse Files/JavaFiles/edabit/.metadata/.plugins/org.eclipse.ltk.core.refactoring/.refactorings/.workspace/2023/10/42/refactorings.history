@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;num3_convertMinutesintoSeconds&apos; to &apos;num4_convertMinutesintoSeconds&apos;&#x0D;&#x0A;- Original element: &apos;num3_convertMinutesintoSeconds&apos;&#x0D;&#x0A;- Renamed element: &apos;num3_convertMinutesintoSeconds&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;num3_convertMinutesintoSeconds&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=num3_convertMinutesintoSeconds" name="num4_convertMinutesintoSeconds" references="true" stamp="1697864038933" version="1.0"/>
+</session>

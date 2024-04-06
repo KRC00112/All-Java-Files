@@ -1,0 +1,23 @@
+package reverseANumber;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int x=629;
+		
+		String l=String.valueOf(x);
+		
+		
+		int y=x/100;
+		int z=x%100;
+		
+		System.out.println(z+""+y);
+		
+		
+		
+
+	}
+
+}

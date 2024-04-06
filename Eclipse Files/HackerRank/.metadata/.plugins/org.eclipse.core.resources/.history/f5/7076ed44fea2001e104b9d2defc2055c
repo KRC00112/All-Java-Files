@@ -1,0 +1,51 @@
+package endOfFIle;
+
+import java.util.Scanner;
+
+
+
+
+public class Solution {
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+Scanner scanner = new Scanner(System.in);
+        
+        int lineNumber = 1;
+        
+        while (scanner.hasNext()) {
+            String lineContent = scanner.nextLine();
+            System.out.println(lineNumber + " " + lineContent);
+            lineNumber++;
+        }
+        
+        scanner.close();
+		 
+		
+		
+//	
+//		String input="Hello world\r\n"
+//				+ "I am a file\r\n"
+//				+ "Read me until end-of-file.";
+//		
+//		String[] inputl=input.split("\r\n");
+//		
+//	
+//		
+//		
+//		for(int i=0;i<inputl.length;i++) {
+//			
+//			
+//			System.out.println((i+1)+" "+inputl[i]);
+//			
+//			
+//		}
+		
+		
+	}
+	
+
+}

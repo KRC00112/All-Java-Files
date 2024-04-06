@@ -1,0 +1,46 @@
+package anagrams;
+
+import java.util.Scanner;
+
+public class Solution {
+
+	public static void main(String[] args) {
+		
+		
+		String a="Cat";
+		String b="cTA";
+		
+		
+		
+		for(int i=0;i<a.length();i++) {
+			
+			
+			int x=a.charAt(i);
+			
+			
+			for(int j=0;j<b.length();j++) {
+				
+				if(x==b.charAt(j)) {
+					
+					System.out.println("yes");
+					
+					
+				}
+				
+				
+				
+			}
+			
+			
+			
+			
+			
+			
+		}
+    	
+    	
+    	
+    
+       
+    }
+}

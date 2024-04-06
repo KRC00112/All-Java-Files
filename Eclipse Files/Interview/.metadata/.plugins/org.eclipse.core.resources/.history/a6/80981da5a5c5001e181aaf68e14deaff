@@ -1,0 +1,37 @@
+package palindrome;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String x="kaustav";
+		
+		System.out.println(x);
+		
+		String reversed = "";
+		
+		for(int i=x.length()-1;i>=0;i--) {
+			
+			
+			reversed=reversed+x.charAt(i);
+			
+	
+			
+		}
+		
+		System.out.print(reversed);
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+	}
+
+}

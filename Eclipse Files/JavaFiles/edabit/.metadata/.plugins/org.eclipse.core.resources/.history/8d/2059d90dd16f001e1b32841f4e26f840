@@ -1,0 +1,26 @@
+package num7_FizzBuzz;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		Integer x=5;
+		
+		if(x%3!=0||x%5!=0) {
+			System.out.println(x.toString()); 
+		}
+		
+		else if(x%3==0) {
+			System.out.print("Fizz");
+		}
+		 if(x%5==0) {
+			System.out.println("Buzz");
+		}
+		
+		
+		
+		
+		
+	}
+
+}

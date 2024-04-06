@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+C:\Users\lenovo\Desktop\JavaFiles\edabit\.metadata\.plugins\org.eclipse.jdt.core
+980603902.index
+1865797976.index
+1525246585.index
+3683179549.index
+432985169.index
+3323848802.index
+4182411130.index

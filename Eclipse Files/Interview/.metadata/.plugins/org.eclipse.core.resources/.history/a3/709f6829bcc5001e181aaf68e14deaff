@@ -1,0 +1,36 @@
+import java.util.*;
+
+public class Main {
+    public static int getMaximumMEX(List<Integer> arr) {
+        // Sort the array to ensure elements are in ascending order
+        Collections.sort(arr);
+        
+        int mex = 0;
+        for (int num : arr) {
+            // If the current number is greater than or equal to mex, update mex
+            if (num == mex) {
+                mex++;
+            } else if (num > mex) {
+                break;
+            }
+        }
+        
+        return mex;
+    }
+    
+    public static void main(String[]args) {
+    	
+    	List<Integer> arr = new ArrayList<>();
+        arr.add(0);
+        arr.add(2);
+        arr.add(2);
+        
+        // Call the getMaximumMEX function and print the result
+        int maxMex = Main.getMaximumMEX(arr);
+        System.out.println("Maximum MEX: " + maxMex);
+    	
+    }
+    
+    
+    
+}

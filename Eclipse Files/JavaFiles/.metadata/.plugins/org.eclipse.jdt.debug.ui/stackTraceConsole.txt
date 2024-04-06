@@ -1,0 +1,4 @@
+ArrayList<String> stationary=new ArrayList<String>();
+		stationary.add("pen");
+		stationary.add("pencil");
+		stationary.add("eraser");

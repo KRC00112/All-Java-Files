@@ -1,0 +1,31 @@
+package num2_areTheNumbersEqual;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+	
+		
+		isEqual(3,7);
+		
+		
+		
+		
+	}
+	
+	static void isEqual(int x,int y) {
+		
+		if(x==y) {
+			System.out.println(true);
+		}
+		
+		if(x!=y) {
+			System.out.println(false);
+		}
+		
+		
+	
+	}
+	
+
+}

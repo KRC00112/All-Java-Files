@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="Frequency"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="density"/>
+			<item value="Density"/>
+			<item value="main"/>
+			<item value="void main"/>
+			<item value="aminoAcid"/>
+			<item value="out"/>
+			<item value="reverseCom"/>
+			<item value="Physics"/>
+			<item value="x"/>
+			<item value="moveName"/>
+			<item value="compMove"/>
+			<item value="row1"/>
+			<item value="variable"/>
+			<item value="System.out.println(&quot;enter num: &quot;);"/>
+			<item value="frame"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Frequency"/>
+			<item value="codon"/>
+			<item value="subject"/>
+			<item value="compMove"/>
+			<item value="userMove"/>
+			<item value="moveList"/>
+			<item value="number"/>
+			<item value="System.out.print(&quot;enter num: &quot;);"/>
+			<item value="this"/>
+			<item value="noe"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="9"/>
+		<item key="DIALOG_Y_ORIGIN" value="217"/>
+		<item key="DIALOG_WIDTH" value="414"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

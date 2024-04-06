@@ -1,0 +1,12 @@
+package classes;
+
+public class Person {
+	
+	
+	String name="john";
+	int age=23;
+	double height=172.4;
+	double weight=66.2;
+	
+
+}

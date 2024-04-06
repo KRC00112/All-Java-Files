@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/JavaFiles/SequenceManipulation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/bill" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/form" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/ghostWatcherDiaries" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/morseCode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/notePad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/projects/snakeGame" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,40 @@
+package classes;
+
+public class Person {
+	
+	
+	String name;
+	int age;
+	double height;
+	double weight;
+	
+	
+	Person(String n,int a,double h,double w){
+		
+		name=n;
+		age=a;
+		height=h;
+		weight=w;
+		
+		
+	}
+	
+	void get() {
+		System.out.println("His name is "+name);
+		System.out.println("he is "+age+" years old");
+		System.out.println(name+"is "+height+"cm tall");
+		System.out.println(name+"weighs"+weight+"kgs");
+	
+	
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

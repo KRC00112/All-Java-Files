@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\lenovo\Desktop\Java_Files\Advent\.metadata\.plugins\org.eclipse.jdt.core
+3959137331.index
+1773393425.index
+1865797976.index

@@ -1,0 +1,18 @@
+package constructor_practice;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		Book book=new Book("TOE","Hawking",2000,"100bt");
+		Book book2=new Book("Freedomm cry","Adewale",1700,"27-bt");
+
+
+		book.details();
+		System.out.println();
+		book2.details();
+		
+		
+	}
+
+}

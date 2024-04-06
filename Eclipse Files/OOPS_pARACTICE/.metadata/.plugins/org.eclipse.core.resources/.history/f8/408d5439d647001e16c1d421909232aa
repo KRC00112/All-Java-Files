@@ -1,0 +1,37 @@
+package classes;
+
+public class Person {
+	
+	
+	String name;
+
+	void get(String n,int a,double h,double w) {
+		System.out.println("His name is "+n);
+		System.out.println("he is "+a+" years old");
+		System.out.println(n+" is "+h+"cm tall");
+		System.out.println(n+" weighs"+w+"kgs");
+
+	}
+	
+	void runs(String runner) {
+		
+		name=runner;
+		
+		System.out.println(name+" runs");
+		
+	}
+	void swims(String swimmer) {
+		name=swimmer;
+		System.out.println(name+" swims");
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

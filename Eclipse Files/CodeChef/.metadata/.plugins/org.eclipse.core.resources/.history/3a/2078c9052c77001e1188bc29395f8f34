@@ -1,0 +1,30 @@
+package goodTurn;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int i = 0;
+		Scanner scanner=new Scanner(System.in);
+		int x=scanner.nextInt();
+		scanner.nextLine();
+		
+		while(i<x) {
+			
+			System.out.println("4");
+			
+			
+			
+		}
+		
+		
+		
+		
+
+
+	}
+
+}

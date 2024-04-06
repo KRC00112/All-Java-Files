@@ -1,0 +1,19 @@
+package reverseANumber;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int x=23;
+		
+		int y=x/10;
+		
+		System.out.println(y);
+		
+		
+		
+
+	}
+
+}

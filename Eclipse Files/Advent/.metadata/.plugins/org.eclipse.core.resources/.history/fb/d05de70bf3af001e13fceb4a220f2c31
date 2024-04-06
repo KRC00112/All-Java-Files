@@ -1,0 +1,33 @@
+package day1;
+
+public class Trebuchet {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		
+
+				
+			String term="a2lvb4ui56qw";
+			
+			
+			
+			for(int i=0;i<term.length();i++) {
+				
+				System.out.println(term.charAt(i));
+				
+				
+				
+			}
+				
+				
+			
+		
+		
+		
+		
+
+	}
+
+}

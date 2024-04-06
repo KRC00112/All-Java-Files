@@ -1,0 +1,51 @@
+package endOfFIle;
+
+import java.util.Scanner;
+
+public class Solution {
+	
+	public static void main(String[] args) {
+		
+		String input="eqi wulp maq\r\n"
+				+ "qni d\r\n"
+				+ "m gugdsulk\r\n"
+				+ "i f\r\n"
+				+ "ds j\r\n"
+				+ "s\r\n"
+				+ "b e xfn\r\n"
+				+ "cb\r\n"
+				+ "g bukc\r\n"
+				+ "hf wuoo imv g\r\n"
+				+ "f su ia twh h\r\n"
+				+ "e te wr ord\r\n"
+				+ "sk f e j\r\n"
+				+ "q\r\n"
+				+ "glo v s\r\n"
+				+ "s x deuwqj\r\n"
+				+ "u\r\n"
+				+ "gd upf mxdh h\r\n"
+				+ "mrcw nx wx\r\n"
+				+ "bvk wiq{-truncated-}";
+		
+		
+	
+		
+		
+		String[] inputl=input.split("\r\n");
+		
+	
+		
+		
+		for(int i=0;i<inputl.length;i++) {
+			
+			
+			System.out.println((i+1)+" "+inputl[i]);
+			
+			
+		}
+		
+		
+	}
+	
+
+}

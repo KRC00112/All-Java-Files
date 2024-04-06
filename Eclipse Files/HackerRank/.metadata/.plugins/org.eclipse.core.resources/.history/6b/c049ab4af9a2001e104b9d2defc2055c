@@ -1,0 +1,55 @@
+package endOfFIle;
+
+import java.util.Scanner;
+
+public class Solution {
+	
+	public static void main(String[] args) {
+		
+		String input="Hello world\r\n"
+				+ "I am a file\r\n"
+				+"rweweweweewew."
+				+ "Read me until end-of-file.";
+		
+		
+	
+		
+		
+		String[] inputl=input.split("\n");
+		
+	
+		
+		
+		for(int i=0;i<inputl.length;i++) {
+			
+			
+			System.out.print((i+1)+" "+inputl[i]);
+			
+			
+		}
+		
+		
+		
+		
+//		for(int i=0;i<input.length();i++) {
+//			
+//			
+//		
+//				System.out.print(input.charAt(i));
+//			
+//			
+//			
+//			
+//			
+//		}
+		
+		
+		
+			
+		
+		
+		
+	}
+	
+
+}

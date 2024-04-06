@@ -1,0 +1,29 @@
+package a2Dgame;
+
+import java.awt.Color;
+
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        JFrame frame = new JFrame();
+
+        frame.setSize(600, 450);
+
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+        JLabel label = new JLabel("Hello, Label!"); // Set the label's text
+        label.setBounds(0, 0, 100, 100);
+        label.setBackground(Color.blue);
+
+        frame.add(label);
+
+        label.setVisible(true); // Set the label's visibility to true
+
+        frame.setLayout(null); // Use a null layout since you're manually setting bounds
+        frame.setVisible(true);
+    }
+}

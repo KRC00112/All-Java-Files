@@ -1,0 +1,36 @@
+package num2_areTheNumbersEqual;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+	
+		
+		isEqual(1,1);
+		
+		
+		
+		
+	}
+	
+	static boolean isEqual(int x,int y) {
+		
+		boolean choice=true;
+		
+		if(x==y) {
+			System.out.println(choice);
+		}
+		
+		if(x!=y) {
+			System.out.println(choice);
+			
+		}
+		
+		return choice;
+		
+		
+	
+	}
+	
+
+}

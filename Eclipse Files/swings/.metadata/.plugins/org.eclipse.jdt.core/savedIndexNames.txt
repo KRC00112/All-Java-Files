@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\lenovo\Desktop\Java_Files\Eclipse Files\swings\.metadata\.plugins\org.eclipse.jdt.core

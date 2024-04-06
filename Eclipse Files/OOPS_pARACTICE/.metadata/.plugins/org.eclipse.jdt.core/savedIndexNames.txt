@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\lenovo\Desktop\OOPS_pARACTICE\.metadata\.plugins\org.eclipse.jdt.core
+2638985685.index
+1865797976.index
+3738175163.index
+4163541083.index

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AirlineBooking:jar">
+    <output-path>$PROJECT_DIR$/.idea/artifacts</output-path>
+    <root id="archive" name="AirlineBooking.jar">
+      <element id="module-output" name="AirlineBooking" />
+    </root>
+  </artifact>
+</component>

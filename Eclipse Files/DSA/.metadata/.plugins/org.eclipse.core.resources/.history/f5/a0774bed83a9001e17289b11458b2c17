@@ -1,0 +1,33 @@
+package ii_basic_concepts;
+
+public class Arrays {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int[] b= {2,4,6,8,10};
+		
+		
+		System.out.println(4*b.length);
+		
+		
+		
+		for(int i=0;i<b.length;i++) {
+			
+			System.out.println(b[i]);
+			
+			
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

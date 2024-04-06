@@ -1,0 +1,46 @@
+package day1;
+
+public class Trebuchet {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		
+
+				
+			String term="a2lvbui6qw"+"sd4afdf7ih";
+			
+			
+			
+			for(int i=0;i<term.length();i++) {
+				
+				char token=term.charAt(i);
+				
+				if(Character.isDigit(token)) {
+					
+					System.out.print(token);
+					
+				}
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			}
+				
+				
+			
+		
+		
+		
+		
+
+	}
+
+}

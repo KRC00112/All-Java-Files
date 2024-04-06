@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AirlineBooking/AirlineBooking.iml" filepath="$PROJECT_DIR$/AirlineBooking/AirlineBooking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EchoApplication/EchoApplication.iml" filepath="$PROJECT_DIR$/EchoApplication/EchoApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactorialServer/FactorialServer.iml" filepath="$PROJECT_DIR$/FactorialServer/FactorialServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IteratingCharacter/IteratingCharacter.iml" filepath="$PROJECT_DIR$/IteratingCharacter/IteratingCharacter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Networking.iml" filepath="$PROJECT_DIR$/.idea/Networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurant/Restaurant.iml" filepath="$PROJECT_DIR$/Restaurant/Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraySortingServer/arraySortingServer.iml" filepath="$PROJECT_DIR$/arraySortingServer/arraySortingServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connectUntilStop/connectUntilStop.iml" filepath="$PROJECT_DIR$/connectUntilStop/connectUntilStop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/convertToAscii/convertToAscii.iml" filepath="$PROJECT_DIR$/convertToAscii/convertToAscii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secondLargest/secondLargest.iml" filepath="$PROJECT_DIR$/secondLargest/secondLargest.iml" />
+    </modules>
+  </component>
+</project>

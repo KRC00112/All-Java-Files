@@ -1,0 +1,24 @@
+import java.util.Arrays;
+
+public class Main {
+
+    public static void main(String[] args) {
+        int[] array = {3, 2, 6, 1, 2,5};
+        
+        // Sort the array
+        Arrays.sort(array);
+        
+        // Initialize the smallest non-negative number
+        int smallestNonNegative = 0;
+        
+        // Iterate over the sorted array to find the smallest non-negative number not present in the array
+        for (int i = 0; i < array.length; i++) {
+            if (array[i] >= smallestNonNegative) {
+                smallestNonNegative++;
+            }
+        }
+        
+        // Print the smallest non-negative number not present in the array
+        System.out.println("Smallest non-negative number not in the array: " + smallestNonNegative);
+    }
+}

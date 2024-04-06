@@ -1,0 +1,26 @@
+package reverseANumber;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		int x=29;
+		
+		String l=String.valueOf(x);
+		
+		
+		String[] numbers=l.split("");
+		
+		System.out.println(numbers[0]);
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

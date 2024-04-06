@@ -1,0 +1,29 @@
+package num7_FizzBuzz;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		Integer x=15;
+		int num=2;
+		int i=0;
+		
+		while(i<num) {
+		 if(x%3==0) {
+			System.out.print("Fizz");
+		}
+		 if(x%5==0) {
+			System.out.println("Buzz");
+		}
+		}
+		
+		 if(x%3!=0||x%5!=0) {
+				System.out.println(x.toString()); 
+		}
+		
+		
+		
+		
+	}
+
+}

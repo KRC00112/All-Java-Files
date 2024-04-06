@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dictionary/Dictionary.iml" filepath="$PROJECT_DIR$/Dictionary/Dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dsa_Lab_Cse3_finals/Dsa_Lab_Cse3_finals.iml" filepath="$PROJECT_DIR$/Dsa_Lab_Cse3_finals/Dsa_Lab_Cse3_finals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibonacciSeries/FibonacciSeries.iml" filepath="$PROJECT_DIR$/FibonacciSeries/FibonacciSeries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/other.iml" filepath="$PROJECT_DIR$/.idea/other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/splitInGroupsOfThree/splitInGroupsOfThree.iml" filepath="$PROJECT_DIR$/splitInGroupsOfThree/splitInGroupsOfThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

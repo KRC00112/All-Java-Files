@@ -1,0 +1,20 @@
+import java.util.*;
+
+public class Main {
+    public static int getMaximumMEX(List<Integer> arr) {
+        // Sort the array to ensure elements are in ascending order
+        Collections.sort(arr);
+        
+        int mex = 0;
+        for (int num : arr) {
+            // If the current number is greater than or equal to mex, update mex
+            if (num == mex) {
+                mex++;
+            } else if (num > mex) {
+                break;
+            }
+        }
+        
+        return mex;
+    }
+}
